@@ -1,0 +1,10 @@
+[package]
+name = "vishalizer"
+version = "0.0.1"
+authors = ["VishalRamki <hello@vishalramkissoon.com>"]
+edition = "2018"
+
+[dependencies]
+
+[dependencies.sdl2]
+version = "0.34.3"
